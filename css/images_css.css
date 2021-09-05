@@ -1,0 +1,20 @@
+.slidesetting{
+	padding: 0px 0px 50px;
+    
+}
+.imgsetting{
+	height: 570px;
+}
+<!--@media(min-width: 768px) and (max-width: 991px)
+{
+	
+	.imgsetting{
+		height: 450px;
+	}
+	
+}
+@media (max-width: 479px){
+	.imgsetting{
+		height: 350px;
+	}
+}-->

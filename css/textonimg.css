@@ -1,0 +1,19 @@
+/* (B) RESPONSIVE IMAGE */
+.textcenter img { width: 100%; }
+.textcenter { max-width: 600px; } /* OPTIONAL */
+ 
+/* (C) CENTER TEXT ON IMAGE */
+.textcenter { position: relative; }
+.textcenter figcaption {
+  position: absolute;
+  /* VERTICAL CENTER */
+  top: 5%;
+  left: 0;
+  /* HORIZONTAL CENTER */
+  width: 100%;
+  text-align: center;
+  /* COSMETICS */
+  color:wheat;
+  font-size: 20px;
+  font-weight: 700;
+}
